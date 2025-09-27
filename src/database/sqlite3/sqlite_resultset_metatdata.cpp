@@ -6,7 +6,7 @@
    SPECIAL NOTE:
     The sqlite3_column_* functions are 0-based, but the JDBC wxResultSetMetaData
     functions are 1-based.  To be consistent with the 1-based JDBC (and also
-    wxPreparedStatement paramters, we are using a 1-based system here.)
+    wxPreparedStatement parameters, we are using a 1-based system here.)
  */
 
 // ctor
